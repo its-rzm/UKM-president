@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Hza.M\Desktop\Java-Resources\FinalProject_Package\UKM President Voting.jar</jar>
+  <outfile>C:\Users\Hza.M\Desktop\Java-Resources\FinalProject_Package\Runnable_EXE.exe</outfile>
+  <errTitle>Java tidak ditemukan, silahkan Install Terlebih Dahulu</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Hza.M\Downloads\exe.ico</icon>
+  <singleInstance>
+    <mutexName>UKM President Voting</mutexName>
+    <windowTitle>UKM President Voting</windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0.0</txtFileVersion>
+    <fileDescription>UKM President E-Voting System</fileDescription>
+    <copyright>Rikhza</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>UKM President E-Voting System</productName>
+    <companyName>Final Project</companyName>
+    <internalName>Final Project</internalName>
+    <originalFilename>FInal_Project.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+  <messages>
+    <startupErr>Error saat startup</startupErr>
+    <bundledJreErr>Java Runtime Environment Error saat menjalankan program</bundledJreErr>
+    <jreVersionErr>Aplikasi ini membutuhkan JRE untuk dijalankan</jreVersionErr>
+    <launcherErr>Launcher Error saat menjalankan program</launcherErr>
+    <instanceAlreadyExistsMsg>An application instance is already running.</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>
